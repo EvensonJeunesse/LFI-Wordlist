@@ -1,0 +1,11 @@
+/etc/nginx/nginx.conf
+/usr/local/etc/nginx/nginx.conf
+/usr/local/nginx/conf/nginx.conf
+/etc/nginx/sites-available/default
+/etc/nginx/sites-enabled/default
+/var/log/nginx/access_log
+/var/log/nginx/error_log
+/var/log/nginx/access.log
+/var/log/nginx/error.log
+/var/log/nginx.access_log
+/var/log/nginx.error_log
